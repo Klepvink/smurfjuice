@@ -1,5 +1,5 @@
 # smurfjuice
-SmurfJuice is an automatic cookie- and passwordstealer that exploits XSS vulnerabilities in OWASP juiceshop
+SmurfJuice is an automatic cookie- and passwordstealer that exploits XSS vulnerabilities in OWASP juiceshop.
 
 ## How to setup
 First clone the JuiceShop repository to your computer:

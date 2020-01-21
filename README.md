@@ -3,7 +3,10 @@
 SmurfJuice is an automatic cookie- and passwordstealer that exploits XSS vulnerabilities in OWASP juiceshop.
 
 ## How to setup
-First clone the JuiceShop repository to your computer:
+Make sure you have installed the following packages:
+jq, php7.3, curl
+
+clone the JuiceShop repository to your computer:
 `git clone https://github.com/Klepvink/smurfjuice.git`
 
 

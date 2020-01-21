@@ -4,11 +4,12 @@ SmurfJuice is an automatic cookie- and passwordstealer that exploits XSS vulnera
 
 ## How to setup
 First clone the JuiceShop repository to your computer:
-`git clone https://github.com/Klepvink/smurfjuice.git && cd smurfjuice`
+`git clone https://github.com/Klepvink/smurfjuice.git`
 
 
 Install jwt-cli from the following URL:
 `https://github.com/emcrisostomo/jwt-cli`
+The installation steps are in the repository
 
 Download the ngrok binary to the same folder as the smurfjuice script, and authenticate with your key. For more information, check https://ngrok.com/download.
 
